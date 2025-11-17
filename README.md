@@ -10,7 +10,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 3 |  |  |  |
 | 4 |  |  |  |
 | 5 |  |  |  |
-| 6 |  |  |  |
+| 6 | Raheel Arif | Cyber Security | OT Assurance |
 | 7 |  |  |  |
 | 8 |  |  |  |
 | 9 |  |  |  |
