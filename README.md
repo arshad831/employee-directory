@@ -11,7 +11,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 4 |  |  |  |
 | 5 |  |  |  |
 | 6 |  |  |  |
-| 7 |  |  |  |
+| 7 | Muhammad Baig | Cyber Security | IT Assurance |
 | 8 |  |  |  |
 | 9 |  |  |  |
 | 10 |  |  |  |
