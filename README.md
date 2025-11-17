@@ -17,7 +17,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 10 |  |  |  |
 | 11 |  |  |  |
 | 12 |  |  |  |
-| 13 |  |  |  |
+| 13 | Karthick | Data & AI | Data Scientist |
 | 14 |  |  |  |
 | 15 |  |  |  |
 | 16 |  |  |  |
